@@ -1,2 +1,8 @@
 # RSVP-list-exporter
-Python script to automatically export a guest list and separate responses by whether they are attending or not.
+Python script using Selenium to log into The Knot, download the RSVP export, and split it into separate CSVs by response status
+
+## Tech
+Python 3, Selenium (Safari WebDriver), pandas
+
+## Note
+This script has been design to run with Windows Task Scheduler to automatically export the RSVP list once a day
