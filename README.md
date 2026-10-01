@@ -5,4 +5,4 @@ Python script using Selenium to log into The Knot, download the RSVP export, and
 Python 3, Selenium (Safari WebDriver), pandas
 
 ## Note
-This script has been design to run with Windows Task Scheduler to automatically export the RSVP list once a day
+This script has been design to run with a task scheduler to automatically export the RSVP list once a day
